@@ -1,0 +1,12 @@
+/1_ckpt.pth
+/2_ckpt.pth
+/DIV2K_train_HR
+/DIV2K_train_HR.zip
+/DIV2K_valid_HR
+/DIV2K_valid_HR.zip
+/__pycache__
+/models
+/network.log
+/nohup.out
+/prepared_train
+/prepared_val
