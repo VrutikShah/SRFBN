@@ -1,0 +1,6 @@
+Pillow
+scikit-image
+opencv-python
+numpy
+imageio
+scipy==1.2.0
