@@ -1,5 +1,7 @@
 ## Downloading Datasets
 
+Link to the project report - [PDF](https://github.com/VrutikShah/SRFBN/blob/master/SuperResolutionUsingDL.pdf)
+
 Div2K dataset - [Link](https://drive.google.com/drive/folders/1Rqb5Poe5oe2R7vFJhk9jw_ksxClYufsZ?usp=sharing)  
 To download Set5 Dataset, run 
 ```
